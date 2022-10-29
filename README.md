@@ -58,13 +58,13 @@ I'm a passionate FrontEnd developer from Brazil 🧑‍💻
   
   <div align="center">
     <a href="https://github.com/leandroppf/frontend-web-gobarber">
-      <img width="280" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=frontend-web-gobarber&theme=dracula" />
+      <img width="260" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=frontend-web-gobarber&theme=dracula" />
     </a>
     <a href="https://github.com/leandroppf/frontend-mobile-gobarber">
-      <img width="280" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=frontend-mobile-gobarber&theme=dracula" />
+      <img width="260" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=frontend-mobile-gobarber&theme=dracula" />
     </a>
       <a href="https://github.com/leandroppf/backend-gobarber">
-      <img width="280" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=backend-gobarber&theme=dracula" />
+      <img width="260" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=backend-gobarber&theme=dracula" />
     </a>
   </div>
 </details>
