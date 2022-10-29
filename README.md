@@ -23,7 +23,7 @@ I'm a passionate FrontEnd developer from Brazil 🧑‍💻
   <br />
   
   <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leandroppf&show_icons=true&theme=dracula&count_private=true" />
+    <img align="center" width="420px" src="https://github-readme-stats.vercel.app/api?username=leandroppf&show_icons=true&theme=dracula&count_private=true" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroppf&layout=compact&langs_count=6&theme=dracula&hide=ruby,starlark,objective-c,java"/>
   </div>
 
