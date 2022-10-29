@@ -1,16 +1,70 @@
-### Hi there 👋
+### Hello I'm Leandro ✌️
+[![Github](https://img.shields.io/github/followers/leandroppf?label=Follow&style=social)](https://github.com/leandroppf)
 
-<!--
-**leandroppf/leandroppf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+I'm a passionate FrontEnd developer from Brazil 🧑‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me**
+
+- 🥰 Frontend Engineer at [Co.Aktion](https://coaktion.com/)
+
+- 🧑‍💻 I work with React, Next.js, Vue.js, NuxtJS, AngularJS and everithing in Frontend 😅
+
+- ❤️ I love writing code and exploring new technologies
+
+- 💬 Ask me about anything in my [LinkedIn](https://www.linkedin.com/in/leandroppf/)
+
+<br />
+
+<details>
+  <summary>💻 GitHub Profile Stats</summary>
+  
+  <br />
+  
+  <div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leandroppf&show_icons=true&theme=dracula&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroppf&layout=compact&langs_count=6&theme=dracula&hide=ruby,starlark,objective-c,java"/>
+  </div>
+
+  <br />
+
+  <div align="center">
+    <img align="center" src="https://streak-stats.demolab.com/?user=leandroppf&background=22272e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg" />
+  </div>
+</details>
+
+#### Top Loved Repositories at the moment
+
+<div align="center">
+  <a href="https://github.com/leandroppf/mono-noke">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=mono-noke&theme=dracula" />
+  </a>
+  
+  <a href="https://github.com/leandroppf/nuxt-universe-guide">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=nuxt-universe-guide&theme=dracula" />
+  </a>
+</div>
+<br />
+
+<details>
+  <summary>🚀 Rocketseat Bootcamp</summary>
+  
+  <br />
+  
+  [Rocketseat website](https://www.rocketseat.com.br/)
+  
+  <br />
+  
+  <div align="center">
+    <a href="https://github.com/leandroppf/frontend-web-gobarber">
+      <img width="280" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=frontend-web-gobarber&theme=dracula" />
+    </a>
+    <a href="https://github.com/leandroppf/frontend-mobile-gobarber">
+      <img width="280" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=frontend-mobile-gobarber&theme=dracula" />
+    </a>
+      <a href="https://github.com/leandroppf/backend-gobarber">
+      <img width="280" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=backend-gobarber&theme=dracula" />
+    </a>
+  </div>
+</details>
