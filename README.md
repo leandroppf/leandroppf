@@ -41,8 +41,8 @@ I'm a passionate FrontEnd developer from Brazil 🧑‍💻
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=mono-noke&theme=dracula" />
   </a>
   
-  <a href="https://github.com/leandroppf/nuxt-universe-guide">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=nuxt-universe-guide&theme=dracula" />
+  <a href="https://github.com/leandroppf/frontend-stack-comparison">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=frontend-stack-comparison&theme=dracula" />
   </a>
 </div>
 <br />
