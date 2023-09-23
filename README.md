@@ -9,6 +9,8 @@ I'm a passionate FrontEnd developer from Brazil 🧑‍💻
 
 - 🥰 Frontend Engineer at [Co.Aktion](https://coaktion.com/)
 
+- 🌈 Creator of [Droz-Visu](https://github.com/Coaktion/Droz-Visu)
+
 - 🧑‍💻 I work with React, Next.js, Vue.js, NuxtJS, AngularJS and everithing in Frontend 😅
 
 - ❤️ I love writing code and exploring new technologies
@@ -37,12 +39,12 @@ I'm a passionate FrontEnd developer from Brazil 🧑‍💻
 #### Top Loved Repositories at the moment
 
 <div align="center">
+  <a href="https://github.com/Coaktion/Droz-Visu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coaktion&repo=droz-visu&theme=dracula" />
+  </a>
+
   <a href="https://github.com/leandroppf/mono-noke">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=mono-noke&theme=dracula" />
-  </a>
-  
-  <a href="https://github.com/leandroppf/frontend-stack-comparison">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=frontend-stack-comparison&theme=dracula" />
   </a>
 </div>
 <br />
