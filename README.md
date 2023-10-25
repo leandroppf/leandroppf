@@ -7,7 +7,7 @@ I'm a passionate FrontEnd developer from Brazil 🧑‍💻
 
 **About me**
 
-- 🥰 Frontend Engineer at [Co.Aktion](https://coaktion.com/)
+- 🥰 Frontend Engineer at [Edsoma](https://www.edsoma.com/)
 
 - 🌈 Creator of [Droz-Visu](https://github.com/Coaktion/Droz-Visu)
 
