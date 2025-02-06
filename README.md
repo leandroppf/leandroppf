@@ -43,8 +43,8 @@ I'm a passionate FrontEnd developer from Brazil 🧑‍💻
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coaktion&repo=droz-visu&theme=dracula" />
   </a>
 
-  <a href="https://github.com/leandroppf/mono-noke">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=mono-noke&theme=dracula" />
+  <a href="https://github.com/leandroppf/microsoft-azure-stt-logs-viewer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=microsoft-azure-stt-logs-viewer&theme=dracula" />
   </a>
 </div>
 <br />
