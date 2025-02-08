@@ -39,12 +39,12 @@ I'm a passionate FrontEnd developer from Brazil 🧑‍💻
 #### Top Loved Repositories at the moment
 
 <div align="center">
-  <a href="https://github.com/Coaktion/Droz-Visu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coaktion&repo=droz-visu&theme=dracula" />
+  <a href="https://github.com/leandroppf/portfolio-leandroppf">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=portfolio-leandroppf&theme=dracula" height="140px" />
   </a>
 
-  <a href="https://github.com/leandroppf/microsoft-azure-stt-logs-viewer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=microsoft-azure-stt-logs-viewer&theme=dracula" />
+  <a href="https://github.com/Coaktion/Droz-Visu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coaktion&repo=droz-visu&theme=dracula" height="140px" />
   </a>
 </div>
 <br />
