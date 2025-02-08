@@ -40,11 +40,11 @@ I'm a passionate FrontEnd developer from Brazil 🧑‍💻
 
 <div align="center">
   <a href="https://github.com/leandroppf/portfolio-leandroppf">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=portfolio-leandroppf&theme=dracula" height="140px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroppf&repo=portfolio-leandroppf&theme=dracula" height="120px" />
   </a>
 
   <a href="https://github.com/Coaktion/Droz-Visu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coaktion&repo=droz-visu&theme=dracula" height="140px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coaktion&repo=droz-visu&theme=dracula" height="120px" />
   </a>
 </div>
 <br />
